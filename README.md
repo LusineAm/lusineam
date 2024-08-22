@@ -6,12 +6,12 @@
 <div align="center">
     <!-- TG Badge -->
   <a href="https://t.me/lusineam" target="_blank">
-    <img src="https://img.shields.io/badge/-Телеграм-2CA5E0?style=flat&logo=telegram&logoColor=white" height="25" alt="TG Badge"  />
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" height="25" alt="TG Badge"  />
 </a>
   </a>
     <!-- Gmail Badge -->
   <a href="mailto:lusineam.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Почта-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lusineam.dev@gmail.com" height="25" alt="Gmail Badge"  />
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lusineam.dev@gmail.com" height="25" alt="Gmail Badge"  />
   </a>
 </div>
 
