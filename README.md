@@ -5,7 +5,7 @@
 
 <div align="center">
     <!-- TG Badge -->
-  <a href="https://t.me/lusineaam" target="_blank">
+  <a href="https://t.me/lusineam" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" height="25" alt="TG Badge"  />
 </a>
   </a>
